@@ -81,6 +81,7 @@
         android:layout_marginLeft="154dp"
         android:layout_marginEnd="169dp"
         android:layout_marginRight="169dp"
+        android:onClick="click1"
         android:layout_marginBottom="71dp"
         android:text="Войти"
         app:layout_constraintBottom_toBottomOf="parent"

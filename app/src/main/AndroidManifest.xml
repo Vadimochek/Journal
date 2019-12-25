@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.journal">
+    <uses-permission android:name="android.permission.INTERNET">
+        </uses-permission>
 
     <application
         android:allowBackup="true"
@@ -9,6 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+
         <activity android:name=".MainActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
@@ -19,6 +24,20 @@
         <activity android:name=".Schoolchild">
     </activity>
         <activity android:name=".Worker">
+        </activity>
+        <activity android:name=".Profile">
+        </activity>
+        <activity android:name=".Diary">
+        </activity>
+        <activity android:name=".ProfileTeacher">
+        </activity>
+        <activity android:name=".Note">
+        </activity>
+        <activity android:name=".Director">
+        </activity>
+        <activity android:name=".Other">
+        </activity>
+        <activity android:name=".TeachDiary">
         </activity>
     </application>
 

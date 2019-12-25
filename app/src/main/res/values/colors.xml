@@ -3,4 +3,10 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-</resources>
+        <color name="button">#AB1E0AB5</color>
+        <color name="behind">#ABFFDB29</color>
+        <color name="numb">#FD000000</color>
+        <color name="urok">#D81B60</color>
+        <color name="den">#AB1E0AB5</color>
+    </resources>
+
