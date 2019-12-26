@@ -65,7 +65,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
-        android:text=" __"
+        android:text="Таранова Евгения Юрьевна \n   (Алгебра и Геометрия)"
         android:textColor="#3333FF"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"

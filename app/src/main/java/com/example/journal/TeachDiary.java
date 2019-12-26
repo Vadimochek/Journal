@@ -58,5 +58,9 @@ EditText etText,e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12,e13,e14,e15,e16,e17,e18,e
         String savedText = sPref.getString(SAVED_TEXT, "");
         etText.setText(savedText);
         Toast.makeText(this, "Text loaded", Toast.LENGTH_SHORT).show();
+       EditText editText = (EditText)findViewById(R.id.crok);
+       editText.setEnabled(false);
+       editText.setCursorVisible(false);
+       editText.setKeyListener(null);
     }
 }

@@ -43,7 +43,8 @@
         </activity>
         <activity android:name=".Class">
         </activity>
-
+        <activity android:name=".Schools">
+        </activity>
     </application>
 
 </manifest>

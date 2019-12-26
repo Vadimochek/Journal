@@ -18,7 +18,7 @@ public class School extends AppCompatActivity {
                 Intent i = new Intent(School.this, Personal.class);
                 startActivity(i);
             case R.id.button8:
-                Intent i1 = new Intent(School.this, Schooler.class);
+                Intent i1 = new Intent(School.this, Schools.class);
                 startActivity(i1);
         }
     }
