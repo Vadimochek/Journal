@@ -3,6 +3,7 @@ package com.example.journal;
 import android.app.Activity;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
@@ -52,15 +53,14 @@ EditText etText,e1,e2,e3,e4,e5,e6,e7,e8,e9,e10,e11,e12,e13,e14,e15,e16,e17,e18,e
         ed.commit();
         Toast.makeText(this, "Text saved", Toast.LENGTH_SHORT).show();
     }
-
+public void clock(View v){
+    Toast.makeText(this, "В это время класс 10А", Toast.LENGTH_SHORT).show();
+    }
    public void loadText() {
         sPref = getPreferences(MODE_PRIVATE);
         String savedText = sPref.getString(SAVED_TEXT, "");
         etText.setText(savedText);
         Toast.makeText(this, "Text loaded", Toast.LENGTH_SHORT).show();
-       EditText editText = (EditText)findViewById(R.id.crok);
-       editText.setEnabled(false);
-       editText.setCursorVisible(false);
-       editText.setKeyListener(null);
+
     }
 }
