@@ -9,8 +9,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="355dp"
-        android:layout_height="76dp"
+        android:layout_width="362dp"
+        android:layout_height="83dp"
         android:text=" Добро пожаловать в электронный журнал"
         android:textColor="#3333FF"
         android:textSize="30sp"

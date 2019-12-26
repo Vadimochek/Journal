@@ -37,6 +37,9 @@
         </activity>
         <activity android:name=".TeachDiary">
         </activity>
+        <activity android:name=".School">
+        </activity>
+
     </application>
 
 </manifest>

@@ -16,6 +16,7 @@ public class ProfileTeacher extends AppCompatActivity {
         switch (v.getId()) {
             case R.id.button4:
                 Intent di = new Intent(ProfileTeacher.this, TeachDiary.class);
+                //di.putExtra("keyName", );
                 startActivity(di);
                 break;
             case R.id.button5:
