@@ -46,4 +46,5 @@ public class Director extends AppCompatActivity {
      Intent pi = new Intent(Director.this, School.class);
      startActivity(pi);
     }
+
 }

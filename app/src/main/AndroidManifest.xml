@@ -39,6 +39,10 @@
         </activity>
         <activity android:name=".School">
         </activity>
+        <activity android:name=".Personal">
+        </activity>
+        <activity android:name=".Class">
+        </activity>
 
     </application>
 

@@ -14,7 +14,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/behind"
+            android:background="#C59B77"
             android:orientation="vertical">
 
             <LinearLayout
@@ -47,7 +47,7 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:text="1"
-                            android:textColor="@color/numb" />
+                            android:textColor="@color/behind" />
 
                         <TextView
                             android:id="@+id/purok2"
@@ -79,7 +79,7 @@
                             android:layout_height="match_parent"
                             android:gravity="center"
                             android:text="2"
-                            android:textColor="@color/numb" />
+                            android:textColor="@color/behind" />
 
                         <TextView
                             android:id="@+id/purok3"

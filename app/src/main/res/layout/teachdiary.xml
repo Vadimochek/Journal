@@ -11,7 +11,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/behind"
+            android:background="#C59B77"
             android:orientation="vertical">
 
             <LinearLayout
@@ -43,22 +43,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="2"
+                            android:text="1"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
                             android:id="@+id/crok"
                             android:layout_width="348dp"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -72,21 +71,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="3"
+                            android:text="2"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok1"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -100,21 +99,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="4"
+                            android:text="3"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok4"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok2"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -128,21 +127,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="5"
+                            android:text="4"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok5"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok3"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -156,21 +155,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="6"
+                            android:text="5"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok6"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok4"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -184,21 +183,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="7"
+                            android:text="6"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok7"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok5"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -212,21 +211,21 @@
                             android:layout_width="wrap_content"
                             android:layout_height="match_parent"
                             android:gravity="center"
-                            android:text="8"
+                            android:text="7"
                             android:textColor="@color/numb" />
 
                         <TextView
                             android:id="@+id/purok8"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok6"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -269,14 +268,14 @@
                             android:id="@+id/vurok1"
                             android:layout_width="100dp"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok7"
                             android:layout_width="286dp"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
 
@@ -296,14 +295,14 @@
                             android:id="@+id/vurok2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok8"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -324,14 +323,14 @@
                             android:id="@+id/vurok3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok9"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -352,14 +351,14 @@
                             android:id="@+id/vurok4"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok10"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -380,14 +379,14 @@
                             android:id="@+id/vurok5"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok11"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -408,14 +407,14 @@
                             android:id="@+id/vurok6"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok12"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -436,14 +435,13 @@
                             android:id="@+id/vurok7"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -464,14 +462,14 @@
                             android:id="@+id/vurok8"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok13"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -514,14 +512,14 @@
                             android:id="@+id/surok1"
                             android:layout_width="100dp"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok14"
                             android:layout_width="286dp"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
 
@@ -541,14 +539,14 @@
                             android:id="@+id/surok2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok15"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -569,14 +567,14 @@
                             android:id="@+id/surok3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok16"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -597,14 +595,14 @@
                             android:id="@+id/surok4"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok17"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -625,14 +623,14 @@
                             android:id="@+id/surok5"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok18"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -653,14 +651,14 @@
                             android:id="@+id/surok6"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok19"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -681,14 +679,14 @@
                             android:id="@+id/surok7"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok20"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -709,14 +707,14 @@
                             android:id="@+id/surok8"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok21"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -760,14 +758,14 @@
                             android:id="@+id/curok1"
                             android:layout_width="100dp"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok22"
                             android:layout_width="286dp"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
 
@@ -787,14 +785,14 @@
                             android:id="@+id/curok2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok23"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -815,14 +813,14 @@
                             android:id="@+id/curok3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok24"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -843,14 +841,14 @@
                             android:id="@+id/curok4"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok25"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -871,14 +869,14 @@
                             android:id="@+id/curok5"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok26"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -899,14 +897,14 @@
                             android:id="@+id/curok6"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok27"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -927,14 +925,14 @@
                             android:id="@+id/curok7"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok28"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -955,14 +953,14 @@
                             android:id="@+id/curok8"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok29"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1011,14 +1009,14 @@
                             android:id="@+id/urok1"
                             android:layout_width="100dp"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok30"
                             android:layout_width="286dp"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
 
@@ -1038,14 +1036,14 @@
                             android:id="@+id/urok2"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok31"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1066,14 +1064,14 @@
                             android:id="@+id/urok3"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok32"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1094,14 +1092,14 @@
                             android:id="@+id/urok4"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok33"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1122,14 +1120,14 @@
                             android:id="@+id/urok5"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok34"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1150,14 +1148,14 @@
                             android:id="@+id/urok6"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok35"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1178,14 +1176,14 @@
                             android:id="@+id/urok7"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok36"
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />
@@ -1206,14 +1204,15 @@
                             android:id="@+id/urok8"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@color/urok"
+                            android:background="#009688"
                             android:gravity="center"
                             android:text="Алгебра" />
 
                         <EditText
+                            android:id="@+id/crok37"
+
                             android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            />
+                            android:layout_height="match_parent" />
 
                     </TableRow>
                     />

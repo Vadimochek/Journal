@@ -27,6 +27,10 @@ public class Profile extends AppCompatActivity {
                 Intent sc = new Intent(Profile.this, School.class);
                 startActivity(sc);
                 break;
+            case R.id.button11:
+                Intent no = new Intent(Profile.this, Note.class);
+                startActivity(no);
+                break;
         }
     }
 
